@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am an undergraduate student at National University of Singapore, supervised by [Prof. Bryan Low](https://www.comp.nus.edu.sg/~lowkh/) from NUS and [Prof. Jiawei Zhang](https://jwzhang.netlify.app/#about) from University of Wisconsin Madison.
+Hi! I am an undergraduate student major in computer science at National University of Singapore. I am fortunate to be supervised by [Prof. Bryan Low](https://www.comp.nus.edu.sg/~lowkh/) and [Prof. Jiawei Zhang](https://jwzhang.netlify.app/#about).
 
 My research focuses on data valuation, LLM efficiency, and reasoning. I am generally interested in mechanisms that improves model capabilities and investigate the reasons behind. I enjoy discovering diverse research directions and collaborating with researchers across different fields.
 
@@ -29,7 +29,7 @@ I am currently seeking research internship opportunities and PhD/RA positions fo
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Findings</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Findings</div><img src='images/cbd6bd53c2b88782e06284a9a9183190.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 EULoInf: Efficient Hessian-Free Entropy Based Uncertainty-Aware Data Influence Approximation
@@ -38,10 +38,14 @@ EULoInf: Efficient Hessian-Free Entropy Based Uncertainty-Aware Data Influence A
 
 [**Paper**](https://drive.google.com/file/d/1DDduHg6neQYb_aR0b8MwTzbyLrSekCFV/view?usp=drive_link)
 [**Code (will be available soon)**](https://github.com/Rachelcoll/EULoInf.git)
-TL;DR: We propose EULoInf, an efficient Hessian-free influence function approximation based on predictive uncertainty. By approximating influence via uncertainty and gradient based validation loss lookahead, EULoInf avoids iHVP computation, effectively reducing the iHVP-induced quadratic complexity in model parameters to linear time. We rigorously derive our framework from the influence function. Empirically, it matches or even outperforms prior methods across diverse data valuation tasks and LLM architectures, including mislabel detection and data selection, while reducing computational time and memory usage by over 50%.
+TL;DR: EULoInf is an efficient Hessian-free influence function approximation based on predictive uncertainty. By approximating influence via uncertainty and gradient based validation loss lookahead, EULoInf avoids iHVP computation, effectively reducing the iHVP-induced quadratic complexity in model parameters to linear time. It reaches perfect balance between effectiveness and efficiency, reducing computational time and memory usage by over 50%.
 </div>
 </div>
 
 # 📖 Educations
 - *2023.8 - 2027.5 (expected)*, Undergraduate Student, School of Computing, National University of Singapore
+
+# 🏆 Honors and Rewards
+- Dean's List, National University of Singapore, 2024.1
+- Dean's List, National University of Singapore, 2024.6
 
