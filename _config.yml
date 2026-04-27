@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Cai Runxin's Homepage"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "LLM Efficiency, Data Valuation, Reasoning "
 repository               : "Rachelcoll/rachelcoll.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,12 +22,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Runxin Cai"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/c6941afd138fa4d0cf98b4da99d319ee.jpg"
   bio              : "National University of Singapore"
   location         : "Singapore"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "e1130061@u.nus.edu"
   researchgate     : 
   uri              :
@@ -43,9 +43,9 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/runxin-cai/"
+  linkedin         : "runxin-cai/"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0009-0009-9188-0595"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
