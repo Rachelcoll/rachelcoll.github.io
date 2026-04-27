@@ -46,7 +46,7 @@ TL;DR: EULoInf is an efficient Hessian-free influence function approximation bas
 # 📖 Educations
 - *2023.8 - 2027.5 (expected)*, Undergraduate Student, School of Computing, National University of Singapore
 
-# 🏆 Honors and Rewards
+# 🏆 Honors and Awards
 - Dean's List, National University of Singapore, 2024.1
 - Dean's List, National University of Singapore, 2024.6
 
