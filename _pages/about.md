@@ -29,7 +29,9 @@ I am currently seeking research internship opportunities and PhD/RA positions fo
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Findings</div><img src='images/552ef684f2d08e038106cacbe8b20edd.jpg' alt="sym" style="width: 500px; height: 300px; object-fit: cover;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Findings</div>
+  <!-- <img src='images/552ef684f2d08e038106cacbe8b20edd.jpg' alt="sym" style="width: 500px; height: 300px; object-fit: cover;"> -->
+</div></div>
 <div class='paper-box-text' markdown="1">
 
 EULoInf: Efficient Hessian-Free Entropy Based Uncertainty-Aware Data Influence Approximation
