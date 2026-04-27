@@ -28,12 +28,11 @@ I am currently seeking research internship opportunities and PhD/RA positions fo
 - *2026.4*: &nbsp;🎉🎉 My first paper "EULoInf: Efficient Hessian-Free Entropy Based Uncertainty-Aware Data Influence Approximation" is accepted to ACL 2026.
 
 # 📝 Publications 
-<div class='paper-box' style="position: relative; padding: 15px;">
+
+<div class='paper-box' style="position: relative; padding: 15px; display: block; width: 100%; box-sizing: border-box;">
   
   <div class="badge" style="position: absolute; top: 15px; left: 15px;">ACL 2026 Findings</div>
-
-  <div class='paper-box-text' markdown="1" style="width: 100%; padding-top: 35px;">
-
+  <div class='paper-box-text' markdown="1" style="width: 100%; max-width: 100%; padding-top: 35px; flex: 1 1 100%;">
 EULoInf: Efficient Hessian-Free Entropy Based Uncertainty-Aware Data Influence Approximation
 
 <b>Runxin Cai</b><sup>*</sup>, Jingtan Wang<sup>*</sup>, Bryan Kian Hsiang Low
@@ -44,6 +43,7 @@ EULoInf: Efficient Hessian-Free Entropy Based Uncertainty-Aware Data Influence A
 TL;DR: EULoInf is an efficient Hessian-free influence function approximation based on predictive uncertainty. EULoInf avoids iHVP computation, effectively reducing the iHVP-induced quadratic complexity in model parameters to linear time. It reaches perfect balance between effectiveness and efficiency, reducing computational time and memory usage by over 50%.
   </div>
 </div>
+
 # 📖 Educations
 - *2023.8 - 2027.5 (expected)*, Undergraduate Student, School of Computing, National University of Singapore
 
