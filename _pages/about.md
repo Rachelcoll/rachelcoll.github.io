@@ -19,7 +19,7 @@ redirect_from:
 
 Hi! I am an undergraduate student major in computer science at National University of Singapore. I am fortunate to be supervised by [Prof. Bryan Low](https://www.comp.nus.edu.sg/~lowkh/) and [Prof. Jiawei Zhang](https://jwzhang.netlify.app/#about).
 
-My research focuses on data valuation, LLM efficiency, and reasoning. I am generally interested in mechanisms that improves model capabilities and investigate the reasons behind. I enjoy discovering diverse research directions and collaborating with researchers across different fields.
+My research focuses on data valuation, LLM efficiency, and reasoning. I am generally interested in mechanisms that improves model capabilities and investigating the reasons behind. I enjoy discovering diverse research directions and collaborating with researchers across different fields.
 
 I am currently seeking research internship opportunities and PhD/RA positions for Fall 2027. Feel free to reach out if you are interested in collaboration or potential opportunities.
 
