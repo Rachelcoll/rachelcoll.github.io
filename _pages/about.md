@@ -37,7 +37,7 @@ EULoInf: Efficient Hessian-Free Entropy Based Uncertainty-Aware Data Influence A
 
 <b>Runxin Cai</b><sup>*</sup>, Jingtan Wang<sup>*</sup>, Bryan Kian Hsiang Low
 
-[**Paper**](https://drive.google.com/file/d/1DDduHg6neQYb_aR0b8MwTzbyLrSekCFV/view?usp=drive_link) |
+[**Paper**](https://aclanthology.org/2026.findings-acl.1839.pdf) |
 [**Code (will be available soon)**](https://github.com/Rachelcoll/EULoInf.git)
 
 TL;DR: EULoInf is an efficient Hessian-free influence function approximation based on predictive uncertainty. EULoInf avoids iHVP computation, effectively reducing the iHVP-induced quadratic complexity in model parameters to linear time. It reaches perfect balance between effectiveness and efficiency, reducing computational time and memory usage by over 50%.
