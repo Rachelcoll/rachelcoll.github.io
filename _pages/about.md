@@ -54,6 +54,7 @@ TL;DR: On-policy distillation generally results in draft model with better accep
 
 # 📖 Educations
 - *2023.8 - 2027.5 (expected)*, Undergraduate Student, School of Computing, National University of Singapore
+- *2026.1 - 2026.3*, UCEAP Exchange Student, Univeristy of California, Davis
 
 # 🏆 Honors and Awards
 - Dean's List, National University of Singapore, 2024.1
