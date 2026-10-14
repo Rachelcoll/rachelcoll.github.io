@@ -28,17 +28,14 @@ I am currently seeking research internship opportunities and PhD/RA positions fo
 - *2026.4*: &nbsp;🎉🎉 My first paper "EULoInf: Efficient Hessian-Free Entropy Based Uncertainty-Aware Data Influence Approximation" is accepted to ACL 2026.
 
 # 📝 Publications 
-
-<div class='paper-box' style="position: relative; padding: 15px; display: block; width: 100%; box-sizing: border-box;">
-  
-  <div class="badge" style="position: absolute; top: 15px; left: 15px;">ACL 2026 Findings</div>
-  <div class='paper-box-text' markdown="1" style="width: 100%; max-width: 100%; padding-top: 35px; flex: 1 1 100%;">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Findings</div><img src='images/cbd6bd53c2b88782e06284a9a9183190.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 EULoInf: Efficient Hessian-Free Entropy Based Uncertainty-Aware Data Influence Approximation
 
 <b>Runxin Cai</b><sup>*</sup>, Jingtan Wang<sup>*</sup>, Bryan Kian Hsiang Low
 
 [**Paper**](https://aclanthology.org/2026.findings-acl.1839.pdf) |
-[**Code (will be available soon)**](https://github.com/Rachelcoll/EULoInf.git)
+[**Code**](https://github.com/Rachelcoll/EULoInf.git)
 
 TL;DR: EULoInf is an efficient Hessian-free influence function approximation based on predictive uncertainty. EULoInf avoids iHVP computation, effectively reducing the iHVP-induced quadratic complexity in model parameters to linear time. It reaches perfect balance between effectiveness and efficiency, reducing computational time and memory usage by over 50%.
   </div>
