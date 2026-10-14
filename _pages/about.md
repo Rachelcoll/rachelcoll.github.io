@@ -48,7 +48,7 @@ Beyond Fixed Divergences: Overlap-Adaptive Distillation for Speculative Draft Mo
 
 <b>Runxin Cai</b>, Shutong Wu, Guang Lin, Jiawei Zhang
 
-TL;DR: On-policy distillation generally results in draft model with better acceptance performance in speculative decoding. We examine how OPD benefits acceptance improvement and its limitations by characterizing typical rejection pattern, and analyze failure modes and weaknesses of commonly used training objectives in on-policy training of draft model. Based on the analysis, we proposed OWL, a acceptance-oriented training objective that reduced token rejection with overlap-adaptive weight.
+TL;DR: On-policy distillation generally results in draft model with better acceptance performance in speculative decoding. We examine how OPD benefits acceptance improvement and its limitations by characterizing typical rejection pattern, and analyze failure modes and weaknesses of commonly used training objectives in on-policy training of draft model. Based on the analysis, we proposed OWL, a acceptance-oriented training objective that reduces token rejections with overlap-adaptive weight.
   </div>
 </div>
 
