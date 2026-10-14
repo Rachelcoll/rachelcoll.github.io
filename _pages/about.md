@@ -41,7 +41,7 @@ TL;DR: EULoInf is an efficient Hessian-free influence function approximation bas
   </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/data_selection_repsim.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/meth.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Beyond Fixed Divergences: Overlap-Adaptive Distillation for Speculative Draft Models
