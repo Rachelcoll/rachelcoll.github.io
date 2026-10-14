@@ -28,7 +28,7 @@ I am currently seeking research internship opportunities and PhD/RA positions fo
 - *2026.4*: &nbsp;🎉🎉 My first paper "EULoInf: Efficient Hessian-Free Entropy Based Uncertainty-Aware Data Influence Approximation" is accepted to ACL 2026.
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Findings</div><img src='images/cbd6bd53c2b88782e06284a9a9183190.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Findings</div><img src='images/data_selection_repsim.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 EULoInf: Efficient Hessian-Free Entropy Based Uncertainty-Aware Data Influence Approximation
 
