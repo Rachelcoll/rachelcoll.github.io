@@ -41,6 +41,17 @@ TL;DR: EULoInf is an efficient Hessian-free influence function approximation bas
   </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/data_selection_repsim.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Beyond Fixed Divergences: Overlap-Adaptive Distillation for Speculative Draft Models
+
+<b>Runxin Cai</b>, Shutong Wu, Guang Lin, Jiawei Zhang
+
+TL;DR: On-policy distillation generally results in draft model with better acceptance performance in speculative decoding. We examine how OPD benefits acceptance improvement and its limitations by characterizing typical rejection pattern, and analyze failure modes and weaknesses of commonly used training objectives in on-policy training of draft model. Based on the analysis, we proposed OWL, a acceptance-oriented training objective that reduced token rejection with overlap-adaptive weight.
+  </div>
+</div>
+
 # 📖 Educations
 - *2023.8 - 2027.5 (expected)*, Undergraduate Student, School of Computing, National University of Singapore
 
